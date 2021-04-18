@@ -1,0 +1,11 @@
+{
+  "name": "grupos-estudio-back",
+  "version": "1.0.0",
+  "description": "Backend para sistema de administracion de grupos de estudio con la API de discord",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
